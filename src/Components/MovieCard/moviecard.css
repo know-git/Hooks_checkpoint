@@ -1,0 +1,9 @@
+.MovieCard {
+  background-color: rgb(44, 53, 73);
+  color: white;
+  width: 400px;
+}
+
+.two {
+  border-radius: 12px;
+}
